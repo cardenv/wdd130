@@ -127,7 +127,7 @@
   width: 700px;
 }
 .red5 { 
-  width: 700px; 
+  width: 100%; 
   height: 100px; 
   background-color: red;
 
@@ -142,10 +142,11 @@
 .yellow5 {
   background-color: gold; 
   float: center;
+  width: 700px;
 
 } 
 .blue5 {
-  width: 700px; 
+  width: 100%; 
   height: 100px; 
   background-color: blue; 
 } 
