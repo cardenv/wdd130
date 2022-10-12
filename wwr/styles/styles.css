@@ -214,6 +214,10 @@ footer .social img {
     border: solid #1C6B87;
     border-radius: 5px;
 }
+.river-book:hover, .river-join:hover{
+    background-color:#1C6B87;
+    color:  #F4D31B;
+}
 .salmon-river{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
