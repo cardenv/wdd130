@@ -70,7 +70,6 @@ h4 {
     text-align: center;
     box-sizing: border-box;
 }
-
 .card-img {
     border: solid #1C6B87 10px;
     width: 100%;
@@ -134,7 +133,6 @@ body {
     background-color:#1C6B87;
     color:  #F4D31B;
 }
-
 .msg {
     background-color: rgba(28,107,135, .7);
     line-height: 1.5em;
